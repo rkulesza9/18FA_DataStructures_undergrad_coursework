@@ -1,0 +1,49 @@
+Class #1:
+
+JAKE LONG has the closest birthday to ADAM LONG.
+JOHN DOE has the closest birthday to JAKE LONG.
+HOWARD LONG has the closest birthday to CORY WILSON.
+CORY WILSON has the closest birthday to HOWARD LONG.
+CORY WILSON has the closest birthday to JOHN DOE.
+
+Class #2:
+
+B C has the closest birthday to A B.
+A B has the closest birthday to B C.
+D E has the closest birthday to C D.
+C D has the closest birthday to D E.
+
+Class #3:
+
+B C has the closest birthday to A B.
+C D has the closest birthday to B C.
+B C has the closest birthday to C D.
+A B has the closest birthday to D E.
+
+Class #4:
+
+B C has the closest birthday to A C.
+A C has the closest birthday to B C.
+D E has the closest birthday to C D.
+C D has the closest birthday to D E.
+
+Class #5:
+
+B C has the closest birthday to A B.
+C D has the closest birthday to B C.
+B C has the closest birthday to C D.
+C D has the closest birthday to D E.
+
+Class #6:
+
+B C has the closest birthday to A B.
+A B has the closest birthday to B C.
+B C has the closest birthday to C D.
+C D has the closest birthday to D E.
+
+Class #7:
+
+B C has the closest birthday to A B.
+A B has the closest birthday to B C.
+A B has the closest birthday to C D.
+B C has the closest birthday to D E.

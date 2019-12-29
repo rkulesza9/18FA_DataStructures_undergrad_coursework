@@ -1,0 +1,161 @@
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 0
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+M
+How large would you like the list: 
+5
+output: 
+	1018369 15 8.7 "Star Wars: Episode IV" 1977
+	1864648 17 9.0 "The Dark Knight" 2008
+	201597 6 6.9 "Warcraft" 2016
+	959167 28 8.5 "Ace Venture: Pet Detective" 1994
+	661957 32 8.1 "Monsters, Inc." 2001
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 0
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+m
+How large would you like the list: 
+
+5
+output: 
+	212100 11 6.6 "PRETTY WOMAN" 1990
+	122100 137916 6.6 "The Polar Express" 2004
+	122100 159905 6.1 "How the Grinch Stole Christmas" 2000
+	13100 85567 6.8 "Atomic Blonde" 2017
+	12200 21 7.1 "JAWS" 1975
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 1
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+M
+How large would you like the list: 
+5
+output: 
+	134 1369646 8.8 "The Lord of the Rings: The Fellowship of the Ring" 2001
+	2212 872750 7.8 "Titanic" 1997
+	1222 709209 8.1 "Star Wars: The Force Awakens" 2015
+	12211 581290 7.6 "Star Wars: Episode III" 2005
+	1221 387372 7.8 "Rogue One: A Star Wars Story" 2016
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 1
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+m
+How large would you like the list: 
+5
+output: 
+	201597 6 6.9 "Warcraft" 2016
+	32531 9 6.0 "Pokemon: The First Movie" 1998
+	114310 10 7.2 "IT" 1990
+	212100 11 6.6 "PRETTY WOMAN" 1990
+	213 13 8.4 "TITANIC" 1997
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 2
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+M
+How large would you like the list: 
+5
+output: 
+	1889035 26 9.3 "The Shawshank Redemption" 1994
+	1001411 344 9.1 "Dunkirk" 2017
+	1864648 17 9.0 "The Dark Knight" 2008
+	233 23 8.95 "Toy Story" 1995
+	11001111 250 8.9 "Inception" 2015
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 2
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+m
+How large would you like the list: 
+5
+output: 
+	3100000002 47299 3.6 "The Room" 2003
+	32531 9 6.0 "Pokemon: The First Movie" 1998
+	11220001 60 6.0 "ET" 1982
+	122101 16090 6.1 "Jigsaw" 2017
+	122100 159905 6.1 "How the Grinch Stole Christmas" 2000
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 3
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+M
+How large would you like the list: 
+5
+output: 
+	122110 369 7.9 "Thor:Ragnarok" 2017
+	1000112111 416 6.8 "Ferdinand" 2017
+	122101 16090 6.1 "Jigsaw" 2017
+	1000001111 66359 6.9 "Mother!" 2017
+	1001411 344 9.1 "Dunkirk" 2017
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 3
+Do you want to search for the maximum or minimum? (M = maximum, m = minimum): 
+m
+How large would you like the list: 
+5
+output: 
+	1223 153 8.5 "Casablanca" 1942
+	1223 313209 8.6 "It's a Wonderful Life" 1946
+	5151 145 8.3 "Some Like it Hot" 1959
+	12211 180 8.2 "Chinatown" 1974
+	12200 21 7.1 "JAWS" 1975
+
+
+The following are queries you can make about the movies. Type the number in the brackets and press space/enter in order to execute a query.
+[0] Highest Percentage
+[1] Most Viewed
+[2] Highest Rating
+[3] Latest Movie
+[4] exit
+awaiting input: 4
+program exited
